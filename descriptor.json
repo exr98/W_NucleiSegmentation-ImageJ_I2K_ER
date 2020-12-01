@@ -75,7 +75,7 @@
     }
   ],
   "name": "NucleiSegmentation-ImageJ",
-  "description": "Segment clustered nuclei using a laplacian filter, thresholding and a binary watershed transform",
+  "description": "Segment 2D clustered nuclei using a laplacian filter, thresholding and a binary watershed transform",
   "schema-version": "cytomine-0.1",
   "container-image": {
     "image": "errinroy/w_nucleisegmentation-imagej_i2k_er",
